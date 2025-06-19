@@ -1,4 +1,4 @@
-Instruksi Menjalankan Proyek
+# Instruksi Menjalankan Proyek
 1. Persiapan Lingkungan:
     Pastikan Python 3.8 atau lebih tinggi terinstal.
     Instal dependensi dengan perintah:
